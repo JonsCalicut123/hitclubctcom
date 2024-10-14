@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hitclubct Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hitclub <https://hitclubctcom/>`_ - Game bài đẳng cấp quốc tế tại Việt Nam. Link tải Hit Club tài xỉu, nổ hũ tiền tỷ chính hãng tại Hitclubct, Hitclub CT. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 205 P. Đoàn Thị Điểm, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam
 
-   This project is under active development.
+Phone: 0922558899
 
-Contents
---------
+Email: admin@hitclubct.com
 
-.. toctree::
+Website: https://hitclubctcom/
 
-   usage
-   api
+#hitclub, #hit_club, #hitclubct, #hitclub_ct, #hitclubchinhhang, #taihitclub, #gamebaihitclub, #gamdoithuonghitclub, #taixiuhitclub, #dangkyhitclub
